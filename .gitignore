@@ -1,0 +1,8 @@
+terraform.exe
+lambda_deploy/*.zip
+lambda_deploy/terraform.tfstate.backup
+lambda_deploy/terraform.tfstate
+lambda_deploy/.terraform.lock.hcl
+lambda_deploy/linux_amd64
+lambda_deploy/lambda/main
+lambda_deploy/lambda/main.zip
